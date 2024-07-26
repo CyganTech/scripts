@@ -41,4 +41,4 @@ rm -f zabbix-release_7.0-2+ubuntu22.04_all.deb
 # Add firewall rule for Zabbix agent (default port: 10050)
 ufw allow 10050/tcp
 
-echo "Zabbix agent 6.0 installed and configured successfully."
+echo "Zabbix agent 7.0 installed and configured successfully."
