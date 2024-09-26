@@ -46,7 +46,6 @@ main() {
     fi
 
     # Ensure the script can write to the log file
-    mkdir /var/log/autoupd
     touch "$logfile" 2>/dev/null
     if [[ $? -ne 0 ]]; then
         echo "Cannot write to log file: $logfile. Check file permissions." >&2
