@@ -92,8 +92,8 @@ main() {
 }
 
 # Set environment variables from arguments or fallback to defaults
-TELEGRAM_API_TOKEN="7569452382:AAE0m-WlOGHa2oQeSOal6-3R8iz2TSECnjA"
-TELEGRAM_CHAT_ID="-824488682"
+TELEGRAM_API_TOKEN="asdas"
+TELEGRAM_CHAT_ID="-asdas"
 
 # Execute main function
 main
